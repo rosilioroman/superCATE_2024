@@ -13,7 +13,7 @@
 8. [Software License](#license)
 
 ## Introduction 
-This repository documents the work done by a group researchers from the National Solar Observatory during the 2024 Total Solar Eclipse. The group is made up of heliophysicists and scientists from NSO, graduate and undergraduate students from the University of Colorado Boulder.
+This repository partially documents the work done in preparation for capturing images of the Sun's corona during the 2024 Total Solar Eclipse.
 
 **More info on the team and the scientific research coming soon**
 
